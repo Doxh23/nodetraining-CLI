@@ -1,6 +1,6 @@
 {
   "name": "@doxh/holidates",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "this a training of publishing a package",
   "main": "index.js",
   "scripts": {
@@ -23,5 +23,6 @@
     "axios": "^0.22.0",
     "country-list": "^2.2.0",
     "yargs": "^17.2.1"
-  }
+  },
+  "devDependencies": {}
 }
